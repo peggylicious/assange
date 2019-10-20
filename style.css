@@ -5,8 +5,8 @@
 }
 body{
     background-color: red;
-    height: 100vh;
-    overflow-y: scroll;
+    /* height: 100vh;
+    overflow-y: scroll; */
 }
 .screens{
     position: absolute;
