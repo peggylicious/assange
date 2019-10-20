@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: red;
+    background-color: green;
     /* height: 100vh;
     overflow-y: scroll; */
 }
@@ -12,7 +12,7 @@ body{
     position: absolute;
     width: 100%;
     left: 0;
-    height: auto;
+    height: 100%;
     overflow-y: scroll;
     top: 0;
 }
